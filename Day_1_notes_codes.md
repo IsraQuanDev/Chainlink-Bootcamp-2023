@@ -63,7 +63,10 @@ Pago del Gas
 * El coste del gas mide los recursos computacionales.
 
  
+Smart Contracts in Solidity:
 
+
+* [Register](https://gist.github.com/9534119866b35b372b2ea929e1b23a1e.git)
 
 
 
