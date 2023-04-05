@@ -67,6 +67,8 @@ Smart Contracts in Solidity:
 
 
 * [Register](https://gist.github.com/9534119866b35b372b2ea929e1b23a1e.git)
+* [Name Contract](https://gist.github.com/9dbe6fe6767f3a15d7e220df7ac1b99e.git)
+* [CLL BOOTCAMP](https://gist.github.com/45f33f28542f7d83741c6456ef04f7ca.git)
 
 
 
