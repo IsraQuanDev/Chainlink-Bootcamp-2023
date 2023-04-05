@@ -1,0 +1,3 @@
+## Qué es una wallet ? 
+
+* Hardware - Pape - Desktop - Mobile - Web 
