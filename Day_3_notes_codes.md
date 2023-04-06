@@ -1,5 +1,11 @@
 
-Smart Contracts in Solidity c
+### Automation
+
+![Aquí la descripción de la imagen por si no carga](automation.PNG)
+
+
+
+### Dynamic NFT 
 
 * [Token](https://gist.github.com/501688ecaa6fa2a2bc6dac3110284194.git)
 * [Token Shop](https://gist.github.com/2039847a783964dbd570e5bc553794f9.git)
