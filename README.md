@@ -12,7 +12,7 @@
 * [Day 2, video](https://www.youtube.com/watch?v=za5LNFydbmE)
 * [Day 2, notes & codes]( https://github.com/IsraQuanDev/Chainlink-Bootcamp-2023/blob/35d864718890890d7978568a3db3fb6254f34783/Day_2_notes_codes.md)
 * [Day 3, video](https://www.youtube.com/watch?v=GCFh5Fo3mnw)
-* [Day 3, notes & codes]()
+* [Day 3, notes & codes](https://github.com/IsraQuanDev/Chainlink-Bootcamp-2023/blob/9c6a4256bb401c658bd472a8cccb71bda9a1daac/Day_3_notes_codes.md)
 * [Day 4, video]()
 * [Day 4, notes & codes]()
 * [Day 5, video]()
